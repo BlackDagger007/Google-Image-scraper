@@ -1,5 +1,5 @@
 # [Google Image Scraper](https://github.com/BlackDagger007/Google-Image-scraper)
-This repo contains python code to scrapes high resolution images from google using selenium and chromedriver
+This repo contains python code to scrape high resolution images from google using selenium and chromedriver
 
 * [Features](#features)
 * [Requirements](#requirements)
